@@ -8,7 +8,7 @@ use Illuminate\Notifications\Notifiable;
 use Illuminate\Database\Eloquent\Model;
 use App\Permission;
 
-
+hhjh
 class User extends Authenticatable
 {
     use Notifiable;
